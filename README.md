@@ -9,7 +9,7 @@ Before running experiment scripts, please first install this project in developm
 
 ## Data preparation, training and testing
 
-Please refer to the [PySlowFast](https://github.com/facebookresearch/SlowFast) repository since a large proportion of this project directly adopts the code from PySlowFast. 
+Please refer to the [PySlowFast](https://github.com/facebookresearch/SlowFast) repository since a large proportion of this project directly adopts the code from PySlowFast. The .csv files with 'full' in their name represents all 43 classes of BharatDSL and .csv files without 'full' represents 30 out of 43 classes.  
 
 ## About this repository
 
